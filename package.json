@@ -1,0 +1,23 @@
+{
+  "name": "verification-code-generator",
+  "version": "1.0.5",
+  "description": "Generates a verification code with size and characters defined by passed arguments",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ascmartins/verification-code-generator.git"
+  },
+  "keywords": [
+    "number",
+    "generator"
+  ],
+  "author": "Kevin Palmer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ascmartins/verification-code-generator/issues"
+  },
+  "homepage": "https://github.com/ascmartins/verification-code-generator#readme"
+}
