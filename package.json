@@ -1,0 +1,23 @@
+{
+  "name": "@ascmartins/verification-otp-generator",
+  "version": "0.1.0",
+  "description": "Generates a verification code with size and characters defined by passed arguments",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ascmartins/verification-otp-generator.git"
+  },
+  "keywords": [
+    "number",
+    "generator"
+  ],
+  "author": "Alexandre Martins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ascmartins/verification-otp-generator/issues"
+  },
+  "homepage": "https://github.com/ascmartins/verification-otp-generator#readme"
+}
