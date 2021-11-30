@@ -1,4 +1,4 @@
-# verification-code-generator
+# verification-otp-generator
 
 Verification OTP Generator is a simple and flexible verification code generator.
 
